@@ -16,7 +16,7 @@
 
 ========선택========
 
-1)클릭시 적에게서 파티클적용했습니다.
+1)클릭시 적에게서 파티클 적용했습니다.
 
     GameManager.cs 안에 OnAttack() 동작시 EffectParticle.Play() 작동
     
