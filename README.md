@@ -7,7 +7,7 @@
     MainUIController.cs 안에 OnAuto() 버튼화로
     StartCoroutine(AutoAtk(skillTime)) 동작시킵니다
    
-3),5)은 Gold로 같이 구현했고
+3) , 5)은 Gold로 같이 구현했고
   
 4)는 인벤토리나 아이템형식으로는 구현을 제시간에 못할거 같아서 변형해서 구현했습니다. 
 
