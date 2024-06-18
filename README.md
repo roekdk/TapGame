@@ -20,7 +20,7 @@
 
     GameManager.cs 안에 OnAttack() 동작시 EffectParticle.Play() 작동
     
-2)배경과 공격,아이템 구매시 나오게 구현했습니다.
+2)AudioSource는 배경과 공격,아이템 구매시 나오게 구현했습니다.
 
     한곳에 모으질 못하고 GameManager.cs는 OnAttack() 
     각각 업글버튼은 MainUIController.cs 안에 
